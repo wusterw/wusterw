@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wusterw
 - 👀 I’m interested in data visualisation and analysis in R and online tools such as Flourish and Tableau!
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python through YouTube videos.
 - 💞️ I’m looking to collaborate on information design and health data science projects.
 - 📫 You can reach me on Twitter at @nerdfighterwu!
 
